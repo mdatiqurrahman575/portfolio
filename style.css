@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    margin: 10px;
+    padding: 0;
+    
+    
+}
+h1{
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 40px;
+    
+}
+.content{
+    display: flex;
+    padding: 5%;
+    
+}
+.hafe-width{
+    width: 50%;
+}
+img{
+    width: 80%;
+    border-radius: 50%;
+}
+.text-white{
+    color: white;
+}
+.text-black{
+    color: black;
+}
+.link{
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    background-color: aqua;
+    color: white;
+
+}
+
+.top-banner{
+
+    background-image: url("./images/wave.svg");
+    background-repeat: no-repeat;
+}
+.baten{
+    text-align: center;
+    padding:  0 20%;
+
+
+}
+.pranint{
+    display: flex;
+    padding: 10%;
+}
+.child{
+    box-shadow: 10px 5px 40px black;
+    margin: 2%;
+    padding: 50px;
+    border-radius: 0 20px 50px 0;
+    border-left: 10px solid;
+    border-image: linear-gradient(red,yellow) 0 100%;
+}
+
+footer{
+    text-align: center;
+}
+   
+   
+   
